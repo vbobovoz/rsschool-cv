@@ -18,3 +18,9 @@ I am a 19-year-old student who is constantly learning something new. I consider 
 * MySQL  
 * Git  
 ---
+## Code Example:
+```js
+function greeting(name) {
+    console.log("Welcome to my CV-page, " + name + "!");
+}
+```
