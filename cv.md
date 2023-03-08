@@ -24,3 +24,11 @@ function greeting(name) {
     console.log("Welcome to my CV-page, " + name + "!");
 }
 ```
+---
+## Education:
+* Belarusian State University, Faculty of Applied Mathematics and Computer Science (Applied Mathematics)  
+* Courses: Stepik  
+---
+## Languages:
+Russian - Native  
+English - B  
