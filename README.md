@@ -1,1 +1,1 @@
-# rsschool-cv
+https://vbobovoz.github.io/rsschool-cv/cv
